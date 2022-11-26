@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d5633a86-e253-49a0-93c7-eb52ea561ffe": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Look Gorgeous with Wigs You Wear",
+            "heading_size": "h1"
+          }
+        },
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Project Hair Babie is a custom wig solutions company created by Hailee Flores, LA's Favorite Hairstylist. With over 5 years of experience in the hair industry, Hailee has a unique talent for creating custom wig solutions that are not only stylish and on-trend.<\/p><p>We specialize in creating high-quality custom wigs that make you feel beautiful and confident. Our mission is to provide every woman with the opportunity to feel her best, no matter what her circumstances. Our vision is to create a world where all women feel confident and beautiful, regardless of their hair type or style. So, if you're looking for a new look, Project Hair Babie is here for you.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP WIGS",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-0",
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-1",
+        "template--16643627712802__d5633a86-e253-49a0-93c7-eb52ea561ffe-16664895378743761d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image3_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d5633a86-e253-49a0-93c7-eb52ea561ffe"
+  ]
+}
